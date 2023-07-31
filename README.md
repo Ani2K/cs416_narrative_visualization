@@ -1,2 +1,2 @@
 # cs416-final-project
-The website link is https://Ani2k.github.io/cs416_narrative_visualization
+The published website can be found at: https://Ani2k.github.io/cs416_narrative_visualization
